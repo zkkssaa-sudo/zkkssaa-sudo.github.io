@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.zkkssaa_sudo.twa",
+    "sha256_cert_fingerprints": ["36:FA:2D:13:9B:FA:59:5A:BC:E1:EB:9A:D7:D1:DC:A7:D0:CE:95:79:00:B2:6B:77:6A:D1:7D:AD:0E:EA:54:AB"]
+  }
+}]
